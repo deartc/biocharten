@@ -1,6 +1,6 @@
 Biochar Star
 
-Biochar Star is a future business webpage. Necause of time constrraints, the webpage submitted in class is an educational webpage for biochar.  I will  transition it to a business webpage in the future that sells biochar and related items.   
+Biochar Star is a future business webpage. Because of time constraints, the webpage submitted in class is an educational webpage for biochar.  I will  transition it to a business webpage in the future that sells biochar and related items.   
 
 
 The colors chosen for website were primarily charcoal, black and gray which reflects colors of biochar.  Green was also used to reflect nature.  I kept the webite design simple because primary users will be envrionmental conscious people who prefer simplicity. I used responsive design for the navigation bar. I used color changes in the navigation bar  The navigation bar includes animation which involves displayed hidden text while  it is hovered over. I also used responsive design for the contact page to include  Biochar Star email and address.  Within css, I adjusted for mobile and desktop usage.  Media queries were created to build the website mobile first. Media queries used to make website  naviagation menu responsive.  I also used media queries  to allow for responsive web design flexibility of form page.  

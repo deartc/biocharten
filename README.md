@@ -1,6 +1,6 @@
 Biochar Star
 
-Biochar Star is a webpage for a future business.  The webpage submitted in class is an educational webpage for biochar.  I will  transition it to a business webpage in the future that sells biochar and related items.   
+Biochar Star is a future business webpage. Necause of time constrraints, the webpage submitted in class is an educational webpage for biochar.  I will  transition it to a business webpage in the future that sells biochar and related items.   
 
 CSS 
 
